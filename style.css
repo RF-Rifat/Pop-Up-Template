@@ -148,7 +148,7 @@ button {
 .pop-up{
 	position: relative;
 	top: -60%;
-	transform: scale(.1);
+	transform: scale(.01);
 	visibility: hidden;
 	transition: .5s;
 }
